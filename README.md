@@ -9,7 +9,7 @@ Criação de 3 componentes:
 -Alert,
 
 
-## RExigências:
+## Exigências:
 
 
 ### Utilização de testes utilizando Jest e React Testing Library.
